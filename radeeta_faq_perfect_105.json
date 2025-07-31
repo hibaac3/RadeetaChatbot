@@ -1,0 +1,1335 @@
+{
+  "metadata": {
+    "version": "perfect_v1.0",
+    "total_questions": 105,
+    "categories": 7,
+    "domain": "RADEETA eau et assainissement",
+    "language": "français optimisé",
+    "generation_date": "2025-06-10T10:25:38.838625"
+  },
+  "data": [
+    {
+      "id": 1,
+      "category": "Informations Générales",
+      "question": "Où se situe l'agence RADEETA ?",
+      "answer": "L'agence principale de RADEETA se situe Avenue Mohammed V, Taza. Téléphone: 0535-67-32-10. Horaires: Lundi-Vendredi 8h30-16h30, Samedi fermé.",
+      "keywords": [
+        "agence",
+        "adresse",
+        "localisation",
+        "avenue mohammed v"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Informations Générales",
+      "question": "Quels sont les horaires d'ouverture de RADEETA ?",
+      "answer": "RADEETA est ouverte du Lundi au Vendredi de 8h30 à 16h30. Fermé le samedi et dimanche. Service d'urgence 24h/24 au 0535-67-32-15.",
+      "keywords": [
+        "horaires",
+        "ouverture",
+        "heures",
+        "weekend"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Informations Générales",
+      "question": "Comment contacter RADEETA ?",
+      "answer": "Téléphone principal: 0535-67-32-10. Urgences eau: 0535-67-32-15 (24h/24). Email: contact@radeeta.ma. Site web: www.radeeta.ma.",
+      "keywords": [
+        "contact",
+        "téléphone",
+        "email",
+        "urgence"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Informations Générales",
+      "question": "Que signifie RADEETA ?",
+      "answer": "RADEETA signifie Régie Autonome de Distribution d'Eau et d'Assainissement de Taza. C'est l'organisme public chargé de la gestion de l'eau potable et de l'assainissement à Taza.",
+      "keywords": [
+        "radeeta",
+        "signification",
+        "acronyme",
+        "régie"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Informations Générales",
+      "question": "Quelle zone dessert RADEETA ?",
+      "answer": "RADEETA dessert la ville de Taza et sa périphérie avec 35,000 abonnés pour l'eau potable et 28,000 pour l'assainissement sur un réseau de 280 km.",
+      "keywords": [
+        "zone",
+        "desserte",
+        "taza",
+        "périphérie",
+        "abonnés"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Informations Générales",
+      "question": "RADEETA travaille-t-elle le weekend ?",
+      "answer": "Les bureaux RADEETA sont fermés le weekend, mais le service d'urgence fonctionne 24h/24 et 7j/7 au 0535-67-32-15 pour les pannes d'eau.",
+      "keywords": [
+        "weekend",
+        "samedi",
+        "dimanche",
+        "urgence",
+        "24h"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Informations Générales",
+      "question": "Y a-t-il un site internet RADEETA ?",
+      "answer": "Oui, le site officiel est www.radeeta.ma. Vous y trouvez informations, services en ligne, consultation de factures et actualités.",
+      "keywords": [
+        "site",
+        "internet",
+        "web",
+        "en ligne"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Informations Générales",
+      "question": "Comment se rendre à l'agence RADEETA ?",
+      "answer": "L'agence RADEETA se trouve Avenue Mohammed V au centre de Taza, près de la poste principale. Parking disponible pour les clients.",
+      "keywords": [
+        "se rendre",
+        "transport",
+        "parking",
+        "poste"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Informations Générales",
+      "question": "RADEETA a-t-elle des bureaux annexes ?",
+      "answer": "RADEETA dispose d'une agence principale Avenue Mohammed V. Pour les quartiers éloignés, des permanences mobiles sont organisées mensuellement.",
+      "keywords": [
+        "bureaux",
+        "annexes",
+        "permanence",
+        "mobile"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Informations Générales",
+      "question": "Depuis quand RADEETA existe-t-elle ?",
+      "answer": "RADEETA a été créée en 1995 comme régie autonome pour moderniser la gestion de l'eau et de l'assainissement à Taza.",
+      "keywords": [
+        "création",
+        "histoire",
+        "1995",
+        "modernisation"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Informations Générales",
+      "question": "Combien d'employés travaillent chez RADEETA ?",
+      "answer": "RADEETA emploie 125 agents: 65% services techniques, 20% commercial, 15% administratif. Équipes qualifiées et formées régulièrement.",
+      "keywords": [
+        "employés",
+        "agents",
+        "personnel",
+        "125"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Informations Générales",
+      "question": "RADEETA est-elle un service public ?",
+      "answer": "Oui, RADEETA est une régie autonome, établissement public local chargé de la distribution d'eau potable et de l'assainissement à Taza.",
+      "keywords": [
+        "service public",
+        "régie autonome",
+        "établissement public"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Informations Générales",
+      "question": "Y a-t-il une application mobile RADEETA ?",
+      "answer": "Une application mobile RADEETA est en développement dans le cadre du projet Smart Water pour signaler les fuites et consulter les factures.",
+      "keywords": [
+        "application",
+        "mobile",
+        "smart water",
+        "développement"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Informations Générales",
+      "question": "Comment signaler un problème à RADEETA ?",
+      "answer": "Appelez le 0535-67-32-15 pour urgences, ou 0535-67-32-10 pour autres demandes. Vous pouvez aussi vous déplacer à l'agence Avenue Mohammed V.",
+      "keywords": [
+        "signaler",
+        "problème",
+        "réclamation",
+        "urgence"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Informations Générales",
+      "question": "RADEETA traite-t-elle les eaux usées ?",
+      "answer": "Oui, RADEETA gère l'assainissement avec 180 km de réseau, 15 stations de relevage et une station d'épuration moderne de 15,000 m³/jour.",
+      "keywords": [
+        "eaux usées",
+        "assainissement",
+        "épuration",
+        "traitement"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Facturation et Paiement",
+      "question": "Comment consulter ma facture d'eau ?",
+      "answer": "Consultez votre facture sur www.radeeta.ma avec votre numéro client, ou à l'agence avec pièce d'identité. Factures disponibles en ligne 24h/24.",
+      "keywords": [
+        "consulter",
+        "facture",
+        "en ligne",
+        "numéro client"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Facturation et Paiement",
+      "question": "Quels sont les tarifs de l'eau RADEETA ?",
+      "answer": "Tarifs progressifs: 0-20m³: 3.50 DH/m³ (tranche sociale), 21-40m³: 6.80 DH/m³, >40m³: 11.20 DH/m³. Redevance assainissement: 2.50 DH/m³.",
+      "keywords": [
+        "tarifs",
+        "prix",
+        "tranche",
+        "progressif",
+        "dh"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Facturation et Paiement",
+      "question": "Comment payer ma facture d'eau ?",
+      "answer": "Paiement à l'agence RADEETA, banques partenaires, ou prochainement en ligne. Délai de paiement: 30 jours après émission.",
+      "keywords": [
+        "payer",
+        "paiement",
+        "banque",
+        "délai",
+        "30 jours"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Facturation et Paiement",
+      "question": "À quelle fréquence sont émises les factures ?",
+      "answer": "Les factures RADEETA sont émises tous les 2 mois (facturation bimestrielle). Relevé des compteurs entre le 25 et 30 de chaque mois.",
+      "keywords": [
+        "fréquence",
+        "bimestrielle",
+        "2 mois",
+        "relevé"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Facturation et Paiement",
+      "question": "Que faire si ma facture est trop élevée ?",
+      "answer": "Vérifiez d'abord vos installations pour fuites. Contactez RADEETA au 0535-67-32-10 pour vérification du compteur ou réclamation.",
+      "keywords": [
+        "facture élevée",
+        "vérification",
+        "fuite",
+        "compteur"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Facturation et Paiement",
+      "question": "Comment comprendre ma facture d'eau ?",
+      "answer": "La facture indique: consommation en m³, tranche tarifaire, montant eau, redevance assainissement 2.50 DH/m³, taxes communales et total à payer.",
+      "keywords": [
+        "comprendre",
+        "facture",
+        "consommation",
+        "redevance"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Facturation et Paiement",
+      "question": "Où trouver mon numéro de client ?",
+      "answer": "Votre numéro client RADEETA figure en haut de votre facture et sur votre contrat d'abonnement. Conservez-le pour toute démarche.",
+      "keywords": [
+        "numéro client",
+        "facture",
+        "contrat",
+        "abonnement"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Facturation et Paiement",
+      "question": "Que se passe-t-il si je ne paie pas ma facture ?",
+      "answer": "Après 30 jours: relance écrite. Après 60 jours: mise en demeure. Après 90 jours: suspension possible du service jusqu'au paiement.",
+      "keywords": [
+        "non paiement",
+        "relance",
+        "suspension",
+        "mise en demeure"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Facturation et Paiement",
+      "question": "Y a-t-il un tarif social chez RADEETA ?",
+      "answer": "Oui, tranche sociale à 3.50 DH/m³ pour les 20 premiers m³, destinée aux foyers à faible consommation pour encourager les économies d'eau.",
+      "keywords": [
+        "tarif social",
+        "3.50",
+        "économie",
+        "foyer"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Facturation et Paiement",
+      "question": "Comment rectifier une erreur de facturation ?",
+      "answer": "Présentez-vous à l'agence RADEETA avec la facture et justificatifs. Les erreurs sont corrigées sur la facture suivante après vérification.",
+      "keywords": [
+        "erreur",
+        "rectification",
+        "correction",
+        "justificatifs"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Facturation et Paiement",
+      "question": "Puis-je payer en plusieurs fois ?",
+      "answer": "Pour des factures importantes, RADEETA peut étudier un échéancier de paiement. Contactez le service commercial pour négocier.",
+      "keywords": [
+        "plusieurs fois",
+        "échéancier",
+        "négocier",
+        "commercial"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Facturation et Paiement",
+      "question": "Y a-t-il des pénalités de retard ?",
+      "answer": "Oui, des pénalités peuvent s'appliquer après le délai de 30 jours. Montant selon réglementation en vigueur.",
+      "keywords": [
+        "pénalités",
+        "retard",
+        "délai",
+        "réglementation"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Facturation et Paiement",
+      "question": "Comment obtenir un duplicata de facture ?",
+      "answer": "Demandez un duplicata à l'agence RADEETA avec votre numéro client et pièce d'identité. Service gratuit pour la facture courante.",
+      "keywords": [
+        "duplicata",
+        "copie",
+        "facture",
+        "gratuit"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Facturation et Paiement",
+      "question": "Le paiement en ligne est-il disponible ?",
+      "answer": "Le paiement en ligne est en cours de déploiement dans le cadre de la digitalisation RADEETA. Actuellement paiement en agence ou banques.",
+      "keywords": [
+        "paiement en ligne",
+        "digitalisation",
+        "déploiement"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Facturation et Paiement",
+      "question": "Comment calculer ma consommation d'eau ?",
+      "answer": "Consommation = index actuel - index précédent. Un m³ = 1000 litres. Moyenne marocaine: 4-6 m³/mois par personne.",
+      "keywords": [
+        "calculer",
+        "consommation",
+        "index",
+        "m³",
+        "moyenne"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Facturation et Paiement",
+      "question": "Pourquoi payer une redevance d'assainissement ?",
+      "answer": "La redevance assainissement (2.50 DH/m³) finance le traitement des eaux usées, l'entretien du réseau d'égouts et la station d'épuration.",
+      "keywords": [
+        "redevance",
+        "assainissement",
+        "2.50",
+        "épuration",
+        "égouts"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Facturation et Paiement",
+      "question": "Comment contester une facture ?",
+      "answer": "Déposez une réclamation écrite à l'agence RADEETA dans les 15 jours. Enquête et réponse sous 30 jours ouvrables.",
+      "keywords": [
+        "contester",
+        "réclamation",
+        "15 jours",
+        "enquête"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Facturation et Paiement",
+      "question": "Y a-t-il des frais de dossier ?",
+      "answer": "Pas de frais pour consultation facture ou réclamation. Frais possibles pour duplicata d'ancien contrat ou études techniques spéciales.",
+      "keywords": [
+        "frais",
+        "dossier",
+        "duplicata",
+        "études"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Facturation et Paiement",
+      "question": "Comment recevoir ma facture par email ?",
+      "answer": "Service de dématérialisation en cours. Actuellement factures papier uniquement. Prochainement factures électroniques disponibles.",
+      "keywords": [
+        "email",
+        "dématérialisation",
+        "électronique",
+        "papier"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Facturation et Paiement",
+      "question": "Quelle est la consommation moyenne d'un foyer ?",
+      "answer": "Consommation moyenne: 15-25 m³ pour famille 4 personnes. Varie selon habitudes, équipements et saison (plus en été).",
+      "keywords": [
+        "consommation moyenne",
+        "foyer",
+        "famille",
+        "saison"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Qualité de l'Eau",
+      "question": "Comment RADEETA contrôle-t-elle la qualité de l'eau ?",
+      "answer": "RADEETA effectue plus de 50 analyses quotidiennes: turbidité, chlore résiduel, pH, bactériologie. Laboratoire certifié ISO 17025 avec 62 paramètres contrôlés.",
+      "keywords": [
+        "contrôle",
+        "qualité",
+        "analyses",
+        "laboratoire",
+        "iso 17025"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Qualité de l'Eau",
+      "question": "L'eau RADEETA est-elle potable ?",
+      "answer": "Oui, l'eau RADEETA respecte 100% des normes marocaines de potabilité (NM 03.7.001). Contrôles quotidiens et résultats transmis aux autorités sanitaires.",
+      "keywords": [
+        "potable",
+        "normes",
+        "marocaines",
+        "nm 03.7.001",
+        "sanitaires"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Qualité de l'Eau",
+      "question": "Pourquoi l'eau a-t-elle parfois un goût de chlore ?",
+      "answer": "Le chlore (0.2-0.5 mg/l) désinfecte l'eau et garantit sa potabilité jusqu'au robinet. Goût normal et sans danger pour la santé.",
+      "keywords": [
+        "goût",
+        "chlore",
+        "désinfection",
+        "potabilité",
+        "santé"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Qualité de l'Eau",
+      "question": "D'où vient l'eau distribuée par RADEETA ?",
+      "answer": "4 sources naturelles: Bab Merzouka (120 l/s), Ras El Ma (80 l/s), Ain Sebou (45 l/s) et forages F1-F2 (60 l/s chacun). Sources protégées.",
+      "keywords": [
+        "sources",
+        "bab merzouka",
+        "ras el ma",
+        "ain sebou",
+        "forages"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Qualité de l'Eau",
+      "question": "Comment est traitée l'eau avant distribution ?",
+      "answer": "Traitement multi-étapes: captation, décantation, filtration sable/charbon actif, désinfection chlore, ajustement pH 6.5-8.5. Contrôle automatique continu.",
+      "keywords": [
+        "traitement",
+        "décantation",
+        "filtration",
+        "désinfection",
+        "ph"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Qualité de l'Eau",
+      "question": "Puis-je demander une analyse de mon eau ?",
+      "answer": "Oui, RADEETA peut analyser l'eau de votre robinet. Contactez le laboratoire au 0535-67-32-10 pour rendez-vous et tarifs.",
+      "keywords": [
+        "analyse",
+        "robinet",
+        "laboratoire",
+        "rendez-vous",
+        "tarifs"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Qualité de l'Eau",
+      "question": "Que faire si l'eau est trouble ?",
+      "answer": "Laissez couler quelques minutes. Si persistant, contactez RADEETA au 0535-67-32-15. Possible intervention sur réseau ou canalisation.",
+      "keywords": [
+        "trouble",
+        "couler",
+        "persistant",
+        "intervention",
+        "canalisation"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Qualité de l'Eau",
+      "question": "L'eau RADEETA contient-elle du calcaire ?",
+      "answer": "L'eau contient naturellement des minéraux dont le calcaire. Dureté contrôlée selon normes. Bénéfique pour la santé en quantité appropriée.",
+      "keywords": [
+        "calcaire",
+        "minéraux",
+        "dureté",
+        "santé",
+        "normes"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "Qualité de l'Eau",
+      "question": "Y a-t-il des pesticides dans l'eau ?",
+      "answer": "RADEETA analyse mensuellement les pesticides et hydrocarbures. Sources protégées par périmètres de sauvegarde interdisant pollutions agricoles.",
+      "keywords": [
+        "pesticides",
+        "hydrocarbures",
+        "périmètres",
+        "sauvegarde",
+        "agricoles"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Qualité de l'Eau",
+      "question": "Comment signaler un problème de qualité d'eau ?",
+      "answer": "Appelez immédiatement le 0535-67-32-15. Équipes d'intervention et laboratoire mobilisés pour analyse urgente et mesures correctives.",
+      "keywords": [
+        "signaler",
+        "problème qualité",
+        "urgente",
+        "correctives",
+        "laboratoire"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Qualité de l'Eau",
+      "question": "L'eau est-elle fluorée ?",
+      "answer": "Non, RADEETA ne pratique pas la fluoration. L'eau contient naturellement du fluor en quantité conforme aux normes de potabilité.",
+      "keywords": [
+        "fluor",
+        "fluoration",
+        "naturellement",
+        "conforme",
+        "potabilité"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Qualité de l'Eau",
+      "question": "Quels sont les paramètres analysés ?",
+      "answer": "62 paramètres: turbidité, chlore, pH, nitrates, sulfates, métaux lourds, coliformes, pesticides. Analyses quotidiennes, hebdomadaires et mensuelles.",
+      "keywords": [
+        "paramètres",
+        "62",
+        "nitrates",
+        "sulfates",
+        "métaux lourds",
+        "coliformes"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Qualité de l'Eau",
+      "question": "Le laboratoire RADEETA est-il certifié ?",
+      "answer": "Oui, laboratoire certifié ISO 17025 par IMANOR pour 45 paramètres. Participation aux programmes d'inter-comparaison avec ONEP et Ministère Santé.",
+      "keywords": [
+        "laboratoire",
+        "certifié",
+        "iso 17025",
+        "imanor",
+        "inter-comparaison"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "Qualité de l'Eau",
+      "question": "L'eau peut-elle être bue directement du robinet ?",
+      "answer": "Oui, l'eau RADEETA peut être consommée directement. Qualité garantie par traitement complet et contrôles permanents jusqu'au robinet.",
+      "keywords": [
+        "bue",
+        "directement",
+        "robinet",
+        "consommée",
+        "garantie"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Qualité de l'Eau",
+      "question": "Y a-t-il des contrôles externes ?",
+      "answer": "Oui, contrôles officiels trimestriels par délégations Santé et Environnement. Résultats archivés 10 ans et transmis mensuellement aux autorités.",
+      "keywords": [
+        "contrôles externes",
+        "trimestriels",
+        "santé",
+        "environnement",
+        "autorités"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "Qualité de l'Eau",
+      "question": "Comment conserver l'eau à domicile ?",
+      "answer": "Utilisez des récipients propres et fermés. Consommez dans les 24-48h. Nettoyez régulièrement citernes et réservoirs privés.",
+      "keywords": [
+        "conserver",
+        "récipients",
+        "citernes",
+        "réservoirs",
+        "nettoyage"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Qualité de l'Eau",
+      "question": "L'eau change-t-elle de goût selon les saisons ?",
+      "answer": "Légères variations possibles selon sources utilisées et température. Qualité sanitaire constante toute l'année grâce aux traitements.",
+      "keywords": [
+        "goût",
+        "saisons",
+        "variations",
+        "température",
+        "sanitaire"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Qualité de l'Eau",
+      "question": "Que contiennent les rapports de qualité ?",
+      "answer": "Rapports détaillent tous paramètres analysés, fréquences, résultats conformité, évolutions dans le temps. Disponibles sur demande.",
+      "keywords": [
+        "rapports",
+        "paramètres",
+        "conformité",
+        "évolutions",
+        "disponibles"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "Incidents et Coupures",
+      "question": "Comment signaler une coupure d'eau ?",
+      "answer": "Appelez le service d'urgence RADEETA au 0535-67-32-15 (24h/24). Précisez votre adresse exacte et l'heure de début de la coupure.",
+      "keywords": [
+        "signaler",
+        "coupure",
+        "urgence",
+        "0535-67-32-15",
+        "24h"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "Incidents et Coupures",
+      "question": "Comment signaler une fuite d'eau ?",
+      "answer": "Signalez immédiatement au 0535-67-32-15. Précisez lieu exact, ampleur de la fuite. Intervention sous 30 minutes en zone urbaine.",
+      "keywords": [
+        "fuite",
+        "immédiatement",
+        "lieu",
+        "ampleur",
+        "30 minutes"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "Incidents et Coupures",
+      "question": "Combien de temps durent les réparations ?",
+      "answer": "Interventions d'urgence: 30 minutes à 2h selon zone. Grosses réparations programmées la nuit (22h-6h) avec préavis aux usagers.",
+      "keywords": [
+        "durée",
+        "réparations",
+        "2h",
+        "nuit",
+        "préavis"
+      ]
+    },
+    {
+      "id": 57,
+      "category": "Incidents et Coupures",
+      "question": "Y a-t-il des coupures programmées ?",
+      "answer": "Oui, pour gros travaux de maintenance. Coupures nocturnes (22h-6h) avec information préalable par affichage et médias locaux.",
+      "keywords": [
+        "coupures programmées",
+        "maintenance",
+        "nocturnes",
+        "affichage",
+        "médias"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "Incidents et Coupures",
+      "question": "Que faire en cas de panne électrique ?",
+      "answer": "RADEETA dispose de groupes électrogènes de secours. En cas de coupure prolongée, service minimum assuré par pompes mobiles.",
+      "keywords": [
+        "panne électrique",
+        "groupes électrogènes",
+        "secours",
+        "pompes mobiles"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "Incidents et Coupures",
+      "question": "Comment être informé des travaux ?",
+      "answer": "Information par affichage local, site web www.radeeta.ma, radios locales. Prochainement notifications SMS et application mobile.",
+      "keywords": [
+        "informé",
+        "travaux",
+        "affichage",
+        "site web",
+        "notifications"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "Incidents et Coupures",
+      "question": "Que faire si mon quartier n'a plus d'eau ?",
+      "answer": "Vérifiez d'abord vos installations privées. Si quartier entier touché, appelez 0535-67-32-15 pour signalement et intervention.",
+      "keywords": [
+        "quartier",
+        "plus d'eau",
+        "installations privées",
+        "entier",
+        "signalement"
+      ]
+    },
+    {
+      "id": 61,
+      "category": "Incidents et Coupures",
+      "question": "La pression d'eau est faible, que faire ?",
+      "answer": "Problème possible sur réseau ou installation privée. Contactez RADEETA pour vérification. Surpresseurs automatiques régulent la pression.",
+      "keywords": [
+        "pression faible",
+        "réseau",
+        "installation privée",
+        "surpresseurs"
+      ]
+    },
+    {
+      "id": 62,
+      "category": "Incidents et Coupures",
+      "question": "Y a-t-il compensation pour les coupures ?",
+      "answer": "Pour coupures non programmées dépassant 24h, RADEETA étudie chaque cas selon réglementation en vigueur.",
+      "keywords": [
+        "compensation",
+        "non programmées",
+        "24h",
+        "réglementation"
+      ]
+    },
+    {
+      "id": 63,
+      "category": "Incidents et Coupures",
+      "question": "Comment RADEETA détecte-t-elle les fuites ?",
+      "answer": "Détection par secteurs avec débitmètres, détecteurs acoustiques sur 8 véhicules spécialisés, et signalements citoyens. Surveillance continue du rendement réseau.",
+      "keywords": [
+        "détection",
+        "fuites",
+        "débitmètres",
+        "acoustiques",
+        "secteurs"
+      ]
+    },
+    {
+      "id": 64,
+      "category": "Incidents et Coupures",
+      "question": "Qui répare les fuites sur branchement privé ?",
+      "answer": "Fuites après compteur = responsabilité du client. Fuites avant compteur = RADEETA. Intervention gratuite RADEETA sur réseau public.",
+      "keywords": [
+        "branchement privé",
+        "après compteur",
+        "avant compteur",
+        "responsabilité"
+      ]
+    },
+    {
+      "id": 65,
+      "category": "Incidents et Coupures",
+      "question": "Y a-t-il un service d'urgence la nuit ?",
+      "answer": "Oui, astreinte technique 24h/24 avec 3 équipes de 4 agents. Interventions prioritaires traitées sous 30 minutes.",
+      "keywords": [
+        "urgence",
+        "nuit",
+        "astreinte",
+        "24h",
+        "prioritaires"
+      ]
+    },
+    {
+      "id": 66,
+      "category": "Incidents et Coupures",
+      "question": "Comment éviter les coupures en période de sécheresse ?",
+      "answer": "Plan restriction progressif: sensibilisation, coupures nocturnes, rationnement par secteurs. Réserves 48h d'autonomie disponibles.",
+      "keywords": [
+        "sécheresse",
+        "restriction",
+        "rationnement",
+        "réserves",
+        "autonomie"
+      ]
+    },
+    {
+      "id": 67,
+      "category": "Incidents et Coupures",
+      "question": "Que faire en cas de pollution de l'eau ?",
+      "answer": "Arrêt immédiat distribution, alerte autorités sanitaires, analyses renforcées, distribution par camions citernes. Procédure d'urgence stricte.",
+      "keywords": [
+        "pollution",
+        "arrêt",
+        "sanitaires",
+        "camions citernes",
+        "urgence"
+      ]
+    },
+    {
+      "id": 68,
+      "category": "Incidents et Coupures",
+      "question": "Mon compteur est-il réparé gratuitement ?",
+      "answer": "Réparation gratuite si défaut technique avéré. Remplacement à vos frais si détérioration due à négligence ou usure normale.",
+      "keywords": [
+        "compteur",
+        "réparation gratuite",
+        "défaut technique",
+        "détérioration"
+      ]
+    },
+    {
+      "id": 69,
+      "category": "Abonnement et Contrat",
+      "question": "Comment souscrire un abonnement RADEETA ?",
+      "answer": "Apportez: autorisation construire, plan situation, CIN, justificatif propriété. Étude technique puis signature contrat et paiement frais.",
+      "keywords": [
+        "souscrire",
+        "autorisation",
+        "plan",
+        "cin",
+        "propriété"
+      ]
+    },
+    {
+      "id": 70,
+      "category": "Abonnement et Contrat",
+      "question": "Combien coûte un nouveau branchement ?",
+      "answer": "Participation investissement 150-800 DH/ml selon distance, compteur 1,200 DH, branchement standard 2,500 DH. Travaux sous 15 jours.",
+      "keywords": [
+        "coût",
+        "branchement",
+        "150-800",
+        "compteur",
+        "1200",
+        "2500"
+      ]
+    },
+    {
+      "id": 71,
+      "category": "Abonnement et Contrat",
+      "question": "Quels documents pour un nouveau contrat ?",
+      "answer": "Documents requis: autorisation de construire, plan de situation, copie CIN, justificatif de propriété. Dossier complet obligatoire.",
+      "keywords": [
+        "documents",
+        "contrat",
+        "autorisation",
+        "plan",
+        "justificatif"
+      ]
+    },
+    {
+      "id": 72,
+      "category": "Abonnement et Contrat",
+      "question": "Comment transférer un abonnement ?",
+      "answer": "Ancien propriétaire: solde compte et résiliation. Nouveau: nouveau contrat avec justificatifs propriété. Pas de transfert direct.",
+      "keywords": [
+        "transférer",
+        "ancien propriétaire",
+        "résiliation",
+        "nouveau contrat"
+      ]
+    },
+    {
+      "id": 73,
+      "category": "Abonnement et Contrat",
+      "question": "Combien de temps pour obtenir un branchement ?",
+      "answer": "Délai standard: 15 jours après paiement et dossier complet. Peut varier selon complexité technique et disponibilité équipes.",
+      "keywords": [
+        "délai",
+        "15 jours",
+        "paiement",
+        "complexité",
+        "équipes"
+      ]
+    },
+    {
+      "id": 74,
+      "category": "Abonnement et Contrat",
+      "question": "Y a-t-il des frais d'ouverture de compteur ?",
+      "answer": "Frais d'ouverture inclus dans coût branchement. Réouverture après suspension: frais selon tarification en vigueur.",
+      "keywords": [
+        "frais ouverture",
+        "inclus",
+        "réouverture",
+        "suspension",
+        "tarification"
+      ]
+    },
+    {
+      "id": 75,
+      "category": "Abonnement et Contrat",
+      "question": "Comment résilier mon abonnement ?",
+      "answer": "Demande écrite avec copie CIN, solde de tout compte, restitution compteur. Résiliation effective après régularisation complète.",
+      "keywords": [
+        "résilier",
+        "demande écrite",
+        "solde",
+        "restitution",
+        "régularisation"
+      ]
+    },
+    {
+      "id": 76,
+      "category": "Abonnement et Contrat",
+      "question": "Puis-je avoir plusieurs compteurs ?",
+      "answer": "Oui, selon besoins (habitation + commerce). Chaque compteur nécessite contrat séparé et étude technique de faisabilité.",
+      "keywords": [
+        "plusieurs compteurs",
+        "contrat séparé",
+        "étude technique",
+        "faisabilité"
+      ]
+    },
+    {
+      "id": 77,
+      "category": "Abonnement et Contrat",
+      "question": "Comment changer le nom sur le contrat ?",
+      "answer": "Changement de nom: justificatifs officiels (mariage, divorce, etc.). Changement propriétaire: nouveau contrat obligatoire.",
+      "keywords": [
+        "changer nom",
+        "justificatifs",
+        "mariage",
+        "propriétaire",
+        "nouveau contrat"
+      ]
+    },
+    {
+      "id": 78,
+      "category": "Abonnement et Contrat",
+      "question": "Y a-t-il des conditions pour un branchement ?",
+      "answer": "Construction conforme urbanisme, distance raisonnable du réseau, faisabilité technique, paiement des frais. Étude préalable obligatoire.",
+      "keywords": [
+        "conditions",
+        "urbanisme",
+        "distance",
+        "faisabilité",
+        "étude préalable"
+      ]
+    },
+    {
+      "id": 79,
+      "category": "Abonnement et Contrat",
+      "question": "Que faire si mon dossier est refusé ?",
+      "answer": "Refus motivé par écrit avec explications. Possibilité de compléter dossier ou faire appel selon motifs évoqués.",
+      "keywords": [
+        "refus",
+        "motivé",
+        "explications",
+        "compléter",
+        "appel"
+      ]
+    },
+    {
+      "id": 80,
+      "category": "Abonnement et Contrat",
+      "question": "Comment obtenir l'assainissement ?",
+      "answer": "Raccordement assainissement obligatoire avec branchement eau. Réseau disponible: raccordement inclus. Sinon: fosse étanche temporaire.",
+      "keywords": [
+        "assainissement",
+        "raccordement",
+        "obligatoire",
+        "fosse étanche"
+      ]
+    },
+    {
+      "id": 81,
+      "category": "Abonnement et Contrat",
+      "question": "Y a-t-il des exigences pour lotissements ?",
+      "answer": "Lotisseurs: conduites minimum Ø160mm, bornes incendie tous 150m, raccordement assainissement obligatoire selon plan directeur.",
+      "keywords": [
+        "lotissements",
+        "160mm",
+        "bornes incendie",
+        "150m",
+        "plan directeur"
+      ]
+    },
+    {
+      "id": 82,
+      "category": "Abonnement et Contrat",
+      "question": "Comment modifier mon contrat ?",
+      "answer": "Modifications à l'agence avec justificatifs. Changements techniques nécessitent nouvelle étude. Avenant au contrat si accepté.",
+      "keywords": [
+        "modifier",
+        "justificatifs",
+        "changements techniques",
+        "avenant"
+      ]
+    },
+    {
+      "id": 83,
+      "category": "Abonnement et Contrat",
+      "question": "Le compteur appartient-il au client ?",
+      "answer": "Non, compteur propriété RADEETA. Location incluse dans abonnement. Remplacement et entretien par RADEETA selon besoins.",
+      "keywords": [
+        "compteur",
+        "propriété radeeta",
+        "location",
+        "remplacement",
+        "entretien"
+      ]
+    },
+    {
+      "id": 84,
+      "category": "Abonnement et Contrat",
+      "question": "Comment signaler un déménagement ?",
+      "answer": "Informez RADEETA: résiliation ancien contrat, nouveau contrat à nouvelle adresse si dans zone RADEETA. Règlement séparé des comptes.",
+      "keywords": [
+        "déménagement",
+        "résiliation",
+        "nouvelle adresse",
+        "règlement"
+      ]
+    },
+    {
+      "id": 85,
+      "category": "Abonnement et Contrat",
+      "question": "Y a-t-il un contrat type ?",
+      "answer": "Oui, contrat standard RADEETA définit droits/devoirs des parties, tarifs applicables, conditions techniques et commerciales.",
+      "keywords": [
+        "contrat type",
+        "standard",
+        "droits",
+        "devoirs",
+        "conditions"
+      ]
+    },
+    {
+      "id": 86,
+      "category": "Abonnement et Contrat",
+      "question": "Comment obtenir une attestation de branchement ?",
+      "answer": "Demande à l'agence avec numéro client. Attestation gratuite précisant existence branchement, date, caractéristiques techniques.",
+      "keywords": [
+        "attestation",
+        "branchement",
+        "gratuite",
+        "caractéristiques techniques"
+      ]
+    },
+    {
+      "id": 87,
+      "category": "Assainissement",
+      "question": "Comment fonctionne l'assainissement RADEETA ?",
+      "answer": "Réseau 180 km collecte eaux usées de 28,000 abonnés vers station épuration. 15 stations relevage, traitement moderne 15,000 m³/jour.",
+      "keywords": [
+        "assainissement",
+        "180 km",
+        "28000",
+        "épuration",
+        "15000"
+      ]
+    },
+    {
+      "id": 88,
+      "category": "Assainissement",
+      "question": "Où vont les eaux usées après traitement ?",
+      "answer": "Eaux épurées respectent normes rejet (DBO5 <40 mg/l, MES <50 mg/l) et sont rejetées dans oued Innaouen après contrôle qualité.",
+      "keywords": [
+        "eaux usées",
+        "épurées",
+        "normes",
+        "oued innaouen",
+        "contrôle"
+      ]
+    },
+    {
+      "id": 89,
+      "category": "Assainissement",
+      "question": "Comment se débarrasser des boues d'épuration ?",
+      "answer": "1,200 tonnes/an de boues déshydratées sont compostées 6 mois puis valorisées en agriculture selon norme NFU 44-095.",
+      "keywords": [
+        "boues",
+        "1200 tonnes",
+        "compostées",
+        "agriculture",
+        "nfu 44-095"
+      ]
+    },
+    {
+      "id": 90,
+      "category": "Assainissement",
+      "question": "Le raccordement à l'égout est-il obligatoire ?",
+      "answer": "Oui, raccordement obligatoire si réseau disponible. Sinon fosse étanche en attente extension réseau selon plan directeur.",
+      "keywords": [
+        "raccordement",
+        "obligatoire",
+        "fosse étanche",
+        "extension",
+        "plan directeur"
+      ]
+    },
+    {
+      "id": 91,
+      "category": "Assainissement",
+      "question": "Comment signaler un problème d'égout ?",
+      "answer": "Appelez 0535-67-32-15 pour bouchons, débordements, odeurs. Intervention équipes spécialisées avec matériel de curage.",
+      "keywords": [
+        "problème égout",
+        "bouchons",
+        "débordements",
+        "odeurs",
+        "curage"
+      ]
+    },
+    {
+      "id": 92,
+      "category": "Assainissement",
+      "question": "Y a-t-il des restrictions sur les rejets ?",
+      "answer": "Interdiction de rejeter: huiles, solvants, produits toxiques, déchets solides. Risque de pollution station et amendes.",
+      "keywords": [
+        "restrictions",
+        "huiles",
+        "solvants",
+        "toxiques",
+        "pollution"
+      ]
+    },
+    {
+      "id": 93,
+      "category": "Assainissement",
+      "question": "Comment fonctionne la station d'épuration ?",
+      "answer": "Procédé boues activées: dégrillage, dessablage, aération 2,400 m³, clarification 1,800 m². Rendement 95% DBO5, 92% MES.",
+      "keywords": [
+        "station épuration",
+        "boues activées",
+        "dégrillage",
+        "aération",
+        "clarification"
+      ]
+    },
+    {
+      "id": 94,
+      "category": "Assainissement",
+      "question": "La station d'épuration fonctionne-t-elle toujours ?",
+      "answer": "Oui, fonctionnement continu 24h/24 avec télésurveillance automatique et astreinte technique permanente pour maintenance.",
+      "keywords": [
+        "toujours",
+        "24h",
+        "télésurveillance",
+        "astreinte",
+        "maintenance"
+      ]
+    },
+    {
+      "id": 95,
+      "category": "Assainissement",
+      "question": "Que deviennent les graisses récupérées ?",
+      "answer": "Graisses du déshuilage traitées par société spécialisée selon filière agréée. Suivi environnemental trimestriel obligatoire.",
+      "keywords": [
+        "graisses",
+        "déshuilage",
+        "société spécialisée",
+        "suivi environnemental"
+      ]
+    },
+    {
+      "id": 96,
+      "category": "Assainissement",
+      "question": "Y a-t-il réutilisation des eaux traitées ?",
+      "answer": "15% des eaux épurées réutilisées pour arrosage espaces verts communaux. Projet extension réutilisation en cours d'étude.",
+      "keywords": [
+        "réutilisation",
+        "15%",
+        "espaces verts",
+        "communaux",
+        "extension"
+      ]
+    },
+    {
+      "id": 97,
+      "category": "Assainissement",
+      "question": "Comment éviter les refoulements d'égout ?",
+      "answer": "Ne pas jeter déchets solides, lingettes, huiles. Entretenir siphons. Signaler bouchons rapidement au 0535-67-32-15.",
+      "keywords": [
+        "refoulements",
+        "déchets solides",
+        "lingettes",
+        "siphons",
+        "bouchons"
+      ]
+    },
+    {
+      "id": 98,
+      "category": "Assainissement",
+      "question": "Le réseau d'assainissement est-il surveillé ?",
+      "answer": "Surveillance continue: 1,200 regards visite, 350 bouches égout, 28 déversoirs orage. Inspection régulière et curage préventif.",
+      "keywords": [
+        "surveillé",
+        "regards",
+        "bouches égout",
+        "déversoirs",
+        "curage préventif"
+      ]
+    },
+    {
+      "id": 99,
+      "category": "Service Client",
+      "question": "Comment obtenir des informations sur RADEETA ?",
+      "answer": "Site web www.radeeta.ma, agence Avenue Mohammed V, téléphone 0535-67-32-10. Plaquettes d'information disponibles gratuitement.",
+      "keywords": [
+        "informations",
+        "site web",
+        "agence",
+        "plaquettes",
+        "gratuitement"
+      ]
+    },
+    {
+      "id": 100,
+      "category": "Service Client",
+      "question": "Y a-t-il un service de réclamation ?",
+      "answer": "Oui, réclamations écrites ou orales à l'agence. Traitement sous 48h pour 95% des cas. Suivi jusqu'à résolution complète.",
+      "keywords": [
+        "réclamation",
+        "écrites",
+        "orales",
+        "48h",
+        "suivi"
+      ]
+    },
+    {
+      "id": 101,
+      "category": "Service Client",
+      "question": "RADEETA organise-t-elle des visites ?",
+      "answer": "Visites pédagogiques station épuration et installations pour écoles, associations. Réservation obligatoire au 0535-67-32-10.",
+      "keywords": [
+        "visites",
+        "pédagogiques",
+        "écoles",
+        "associations",
+        "réservation"
+      ]
+    },
+    {
+      "id": 102,
+      "category": "Service Client",
+      "question": "Comment contacter le directeur de RADEETA ?",
+      "answer": "Demande d'audience par écrit à l'agence en précisant objet. Réponse sous 15 jours ouvrables selon disponibilités.",
+      "keywords": [
+        "directeur",
+        "audience",
+        "écrit",
+        "objet",
+        "15 jours"
+      ]
+    },
+    {
+      "id": 103,
+      "category": "Service Client",
+      "question": "Y a-t-il un numéro vert RADEETA ?",
+      "answer": "Numéro principal 0535-67-32-10. Urgences 0535-67-32-15. Projet numéro vert dans modernisation services clientèle.",
+      "keywords": [
+        "numéro vert",
+        "principal",
+        "urgences",
+        "modernisation",
+        "clientèle"
+      ]
+    },
+    {
+      "id": 104,
+      "category": "Service Client",
+      "question": "Comment suggérer des améliorations ?",
+      "answer": "Boîte à suggestions à l'agence, courrier ou email contact@radeeta.ma. Toutes propositions étudiées par direction.",
+      "keywords": [
+        "suggestions",
+        "améliorations",
+        "boîte",
+        "email",
+        "propositions"
+      ]
+    },
+    {
+      "id": 105,
+      "category": "Service Client",
+      "question": "RADEETA a-t-elle une page Facebook ?",
+      "answer": "Réseaux sociaux en projet dans transformation numérique. Actuellement informations officielles sur www.radeeta.ma uniquement.",
+      "keywords": [
+        "facebook",
+        "réseaux sociaux",
+        "transformation numérique",
+        "officielles"
+      ]
+    }
+  ]
+}
