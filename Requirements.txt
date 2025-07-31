@@ -1,0 +1,5 @@
+flask
+openai
+rapidfuzz
+langdetect
+deep-translator
